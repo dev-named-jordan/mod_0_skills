@@ -1,0 +1,13 @@
+Employee Class Attributes -
+
+name = string
+id_number = string
+days_off = array
+trained = boolean
+
+Employee Class Method -
+
+change_name = Changes string in name
+change_id_number = Changes id number
+vacation = Changes day's off array
+training = Changes trained to true
