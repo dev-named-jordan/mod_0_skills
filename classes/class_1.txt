@@ -1,0 +1,15 @@
+Pizza class
+
+Class attributes -
+
+baked = boolean
+crust_type = string
+toppings = array
+to_go = boolean
+
+Class methods -
+
+bake = change baked to true
+choose_crust = assign string value to crust
+add_toppings = assign string to an array for toppings
+make_to_go = change to_go to true
