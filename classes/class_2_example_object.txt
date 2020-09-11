@@ -1,0 +1,13 @@
+Jordan, Employee Instance Attributes -
+
+name = ""
+id_number = ""
+days_off = []
+trained = false
+
+Jordan, Employee Instance Methods -
+
+change_name = "Jordan"
+change_id_number = "3686"
+vacation = ["Monday", "Tuesday", "Wednesday"]
+training = "true"
