@@ -1,0 +1,9 @@
+food = "pizza"
+is_delicious = true
+food = "ramen"
+num2 = 2
+num7 = 7
+quotient = num7 / num 2
+songs = ["song 1", "song 2", "song 3"]
+songs.shift
+food.size
