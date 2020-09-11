@@ -1,0 +1,15 @@
+My Deep Dish Pizza Instance
+
+instance attributes -
+
+baked = false
+crust_type = ""
+toppings = []
+to_go = false
+
+instance methods -
+
+bake = change baked to true
+choose_crust = change crust to "Deep Dish"
+add_toppings = change toppings array to ["pepperoni","cheese","jalapeño"]
+make_to_go = change to_go to true
