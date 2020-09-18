@@ -9,5 +9,5 @@ Employee Class Method -
 
 change_name = Changes string in name
 change_id_number = Changes id number
-vacation = Changes day's off array
-training = Changes trained to true
+take_vacation = Changes day's off array
+get_training = Changes trained to true
